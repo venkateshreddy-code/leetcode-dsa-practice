@@ -16,7 +16,9 @@ This repo contains solutions to various Data Structures and Algorithms (DSA) pro
 - **Graphs**  
 - **Trie**  
 - **Dynamic Programming**  
-- **Heap / Priority Queue**
+- **Heap / Priority Queue**  
+- **Sorting**  
+- **Searching**
 
 ---
 
