@@ -12,7 +12,7 @@ This repo contains solutions to various Data Structures and Algorithms (DSA) pro
 - **Two Pointers**  
 - **Sliding Window**  
 - **Stack**  
-- **Tree**  
+- **Tree / Binary Search Tree (BST)**  
 - **Graphs**  
 - **Trie**  
 - **Dynamic Programming**  
