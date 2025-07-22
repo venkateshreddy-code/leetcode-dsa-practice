@@ -6,6 +6,7 @@ class Solution {
             int remaining = target - nums[i];
             if(map.containsKey(remaining)){
                     return new int[] {map.get(remaining),i};
+                
             }
             else{
                 map.put(nums[i],i);
