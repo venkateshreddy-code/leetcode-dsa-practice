@@ -7,6 +7,7 @@ class Solution {
         for(String str:strs){
             char[] hash = new char[26];
             for(char ch:str.toCharArray()){
+                
                 hash[ch - 'a']++;
             }
             String r = new String(hash);
