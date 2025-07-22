@@ -5,7 +5,6 @@ class Solution {
             if(!set.add(num)){
                 return true;
             }
-           
         }
         return false; 
     }
