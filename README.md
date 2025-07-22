@@ -7,18 +7,32 @@ This repo contains solutions to various Data Structures and Algorithms (DSA) pro
 
 ## 📂 Topics Covered
 
-- **Arrays**  
-- **Hashing**  
-- **Two Pointers**  
-- **Sliding Window**  
-- **Stack**  
-- **Tree / Binary Search Tree (BST)**  
-- **Graphs**  
-- **Trie**  
-- **Dynamic Programming**  
-- **Heap / Priority Queue**  
-- **Sorting**  
-- **Searching**
+* **Arrays**
+
+* **Hashing**
+
+* **Two Pointers**
+
+* **Sliding Window**
+
+* **Stack**
+
+* **Linked List**
+
+* **Tree / Binary Search Tree (BST)**
+
+* **Graphs**
+
+* **Trie**
+
+* **Dynamic Programming**
+
+* **Heap / Priority Queue**
+
+* **Sorting**
+
+* **Searching**
+
 
 ---
 
