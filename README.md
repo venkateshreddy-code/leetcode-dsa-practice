@@ -7,8 +7,7 @@ This repo contains solutions to various Data Structures and Algorithms (DSA) pro
 
 ## 📂 Topics Covered
 
-* **Arrays**
-* **Hashing**
+* **Arrays & Hashing**
 * **Two Pointers**
 * **Sliding Window**
 * **Stack**
