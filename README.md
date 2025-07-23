@@ -14,7 +14,7 @@ This repo contains solutions to various Data Structures and Algorithms (DSA) pro
 * **Binary Search**
 * **Linked List**
 * **Trees**
-* **Recursion & Backtracking**
+* **Backtracking**
 * **Heap / Priority Queue**
 * **Greedy Algorithms**
 * **Dynamic Programming (DP)**
